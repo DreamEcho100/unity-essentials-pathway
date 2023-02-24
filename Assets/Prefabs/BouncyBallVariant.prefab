@@ -54,7 +54,7 @@ PrefabInstance:
     - target: {fileID: 4712870735615374295, guid: adeadee82d17bec47a0b8ab22f4b0085, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: bce0cd8cdfffc2a41b798316325a24d2, type: 2}
+      objectReference: {fileID: 2100000, guid: 49c3c02661a83fd42b33859cfbf9a17d, type: 2}
     - target: {fileID: 4712870735615374314, guid: adeadee82d17bec47a0b8ab22f4b0085, type: 3}
       propertyPath: m_Name
       value: BouncyBallVariant
